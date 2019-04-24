@@ -16,7 +16,7 @@ I just cloned tdsmith repo so I could run more up to date software, mainly chirp
 [Homepage](http://chirp.danplanet.com/projects/chirp/wiki/Home)
 
 To install CHIRP via the command line:
-* `brew install tdsmith/ham/chirp`
+* `brew install eflowkram/ham/chirp`
 
 To run CHRIP via the command line:
 * `chirp`
@@ -31,5 +31,5 @@ To update everything from Homebrew via the command line, run these three command
 * `brew upgrade` (downloads and installs new versions)
 * `brew cleanup` (deletes old versions once the new ones are installed)
 
-If you've uninstalled everything from tdsmith/ham, you can remove the tap via the command line:
+If you've uninstalled everything from eflowkram/ham, you can remove the tap via the command line:
 * `brew untap eflowkram/ham`
