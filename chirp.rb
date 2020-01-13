@@ -4,7 +4,7 @@ class Chirp < Formula
   desc "Programs amateur radios"
   homepage "http://chirp.danplanet.com/projects/chirp/wiki/Home"
   url "https://trac.chirp.danplanet.com/chirp_daily/daily-20200107/chirp-daily-20200107.tar.gz"
-  sha256 "cb87edfb0c7fac19c9e946b76758e006f3b122e1eee09955e74b5d291991ff32"
+  sha256 "9c9d4a614944d3302d182cf02247360e1303949b70796884c579fc616431b1a8"
 
   depends_on "gtk-mac-integration"
   depends_on "py2cairo"
